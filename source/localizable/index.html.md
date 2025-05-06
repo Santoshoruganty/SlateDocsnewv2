@@ -8,8 +8,8 @@ language_tabs: # must be one of https://git.io/vQNgJ
   - javascript
 
 toc_footers:
-  - <a href='../en'>t(:english)</a>
-  - <a href='../de'>t(:german)</a>
+  - <a href='../en'>English</a>
+  - <a href='../de'>German</a>
 
 includes:
   - intro
