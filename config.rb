@@ -1,5 +1,6 @@
 # Unique header generation
 require './lib/unique_head.rb'
+require 'uglifier'
 
 # Markdown
 set :markdown_engine, :redcarpet
