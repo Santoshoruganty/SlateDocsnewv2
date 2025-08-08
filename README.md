@@ -5,6 +5,8 @@
 
 <p align="center">This is a beautifully themed version of the <a href="https://github.com/slatedocs/slate">slate docs</a>.</p>
 
+**Note:** This repository is a cloned and customized template derived from the futuristic Slate docs theme (with built‑in light and dark mode toggling). It’s set up for you to add your company’s API documentation under `source/localizable/index.html.md` and the files in `source/includes`.
+
 <p align="center"><img src="https://raw.githubusercontent.com/Spenhouet/beautiful-docs/c642fa12587849f5d9cdb178d5eb8a0bb00c34ec/img/screenshot-beautiful-docs.png" width=700 alt="Screenshot of Example Documentation created with the beautiful-docs theme of Slate"></p>
 
 <p align="center"><em>Check this design out at <a href="https://spenhouet.com/beautiful-docs/en/">spenhouet.com/beautiful-docs</a>.</em></p>
